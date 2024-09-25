@@ -85,10 +85,10 @@ const Navbar = () => {
 
 			{/* SOCIAL MEDIA links */}
 			<div className="hidden gap-4 md:flex flex-1 items-center justify-center">
-				<Link href="/">
+				<Link href="https://github.com/UsmanBoi">
 					<Image src="/github.png" alt="github logo" width={24} height={24} />
 				</Link>
-				<Link href="/">
+				<Link href="https://www.facebook.com/usch3363">
 					<Image
 						src="/facebook.png"
 						alt="facebook logo"
@@ -96,7 +96,7 @@ const Navbar = () => {
 						height={24}
 					/>
 				</Link>
-				<Link href="/">
+				<Link href="https://www.instagram.com/uss._.man/?hl=en">
 					<Image
 						src="/instagram.png"
 						alt="instagram logo"
@@ -108,14 +108,6 @@ const Navbar = () => {
 					<Image
 						src="/linkedin.png"
 						alt="linkedin logo"
-						width={24}
-						height={24}
-					/>
-				</Link>
-				<Link href="/">
-					<Image
-						src="/pinterest.png"
-						alt="pinterest logo"
 						width={24}
 						height={24}
 					/>

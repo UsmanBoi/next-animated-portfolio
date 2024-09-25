@@ -71,7 +71,7 @@ const ContactPage = () => {
 					ref={form}
 					className="flex flex-col h-3/4 lg:absolute lg:h-full lg:w-[45%] xl:[40%] 2xl:w-[35%] lg:top-0 lg:right-12 xl:right-18 2xl:right-32 bg-red-50 px-16 py-16 lg:px-20 lg:py-28 gap-8 font-medium text-base text-gray-800 rounded-lg justify-center"
 				>
-					<h2 className="text-lg">Lama Dev</h2>
+					<h2 className="text-lg">Dear Usman,</h2>
 					<textarea
 						name="user_message"
 						rows={6}
